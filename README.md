@@ -12,6 +12,13 @@
 <img src="" /> 
 <img src="" /> 
 <img src="" /> 
+    <h4>DevOps<h4/>
+<img src="https://user-images.githubusercontent.com/79336292/136087891-67d1b9a0-47f4-4de4-96f0-7e3c8214ac11.png" /> 
+<img src="https://user-images.githubusercontent.com/79336292/136087978-b35733e5-aa0e-4e4f-bf51-0532f87a95e5.png" /> 
+<img src="https://user-images.githubusercontent.com/79336292/136088089-0e067a44-c945-4c85-95dc-c337ebaf4eb8.png" /> 
+<img src="" /> 
+<img src="" /> 
+<img src="" /> 
 <!--
 **ElinaKhisamutdinova/ElinaKhisamutdinova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
