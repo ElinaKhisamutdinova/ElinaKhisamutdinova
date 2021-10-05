@@ -24,7 +24,7 @@
  
  <img style="height:20px; display:flex; justify-content:center"
  src="https://user-images.githubusercontent.com/79336292/136092530-58139fad-161d-416d-8aee-80490ee90c0e.png" />
- Redux
+ Redux / Redux-thunk / Redux Saga
  
  <img style="height:20px; display:flex; justify-content:center"
  src="https://user-images.githubusercontent.com/79336292/136091546-edd4f56a-8170-43e5-a4c5-e27afe5645b4.png" />
