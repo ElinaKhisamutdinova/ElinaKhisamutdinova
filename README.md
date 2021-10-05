@@ -1,5 +1,7 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElinaKhisamutdinova&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElinaKhisamutdinova&hide=contribs,prs&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElinaKhisamutdinova)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ElinaKhisamutdinova/ElinaKhisamutdinova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
