@@ -6,7 +6,8 @@
 
 <h2>🛠 My tech stack:
   
-<img style="width: 100px, height: 100px" src="https://user-images.githubusercontent.com/79336292/136088344-29d50c7c-49d4-4b1d-9ea9-0fcebf9412c4.png" src="https://user-images.githubusercontent.com/79336292/136088501-490601e2-81f8-4044-9a58-823d3e0ebdbd.png" /> 
+  ![image](https://user-images.githubusercontent.com/79336292/136090056-81c8b906-96fc-43e6-8536-aeef1d565141.png)
+
 
 <!--
 **ElinaKhisamutdinova/ElinaKhisamutdinova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
