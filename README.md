@@ -6,7 +6,7 @@
 
 <h2>🛠 My tech stack:</h2>
   
-  <h4>JavaScript</h4><img style="height:50px; display:flex; justify-content:center"
+  <p>JavaScript</p><img style="height:50px; display:flex; justify-content:center"
  src="https://user-images.githubusercontent.com/79336292/136090056-81c8b906-96fc-43e6-8536-aeef1d565141.png" /> 
 
 <!--
