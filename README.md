@@ -5,20 +5,9 @@
 
 
 <h2>My tech stack:<h2/>
-  <h4>Application and Data<h4/>
+![image](https://user-images.githubusercontent.com/79336292/136088344-29d50c7c-49d4-4b1d-9ea9-0fcebf9412c4.png)
+
 <img src="https://user-images.githubusercontent.com/79336292/136085040-35d4568a-a6ef-4c80-a240-1800a2814f23.png" /> 
-<img src="https://user-images.githubusercontent.com/79336292/136085470-37562d85-f385-4630-ac3b-4fd486ae1577.png" /> 
-<img src="https://user-images.githubusercontent.com/79336292/136085576-b8a0f766-dec1-4bfd-8c6d-9de77a439577.png" /> 
-<img src="" /> 
-<img src="" /> 
-<img src="" /> 
-    <h4>DevOps<h4/>
-<img src="https://user-images.githubusercontent.com/79336292/136087891-67d1b9a0-47f4-4de4-96f0-7e3c8214ac11.png" /> 
-<img src="https://user-images.githubusercontent.com/79336292/136087978-b35733e5-aa0e-4e4f-bf51-0532f87a95e5.png" /> 
-<img src="https://user-images.githubusercontent.com/79336292/136088089-0e067a44-c945-4c85-95dc-c337ebaf4eb8.png" /> 
-<img src="" /> 
-<img src="" /> 
-<img src="" /> 
 <!--
 **ElinaKhisamutdinova/ElinaKhisamutdinova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
