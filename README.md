@@ -3,6 +3,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElinaKhisamutdinova)](https://github.com/anuraghazra/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ElinaKhisamutdinova)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ElinaKhisamutdinova/ElinaKhisamutdinova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
