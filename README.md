@@ -57,6 +57,19 @@
 <!--  <img style="height:50px; display:flex; justify-content:center"
  src="" /> -->
     
+<h2>📖 What I am currently learning</h2>
+
+<img style="height:50px; display:flex; justify-content:center"
+ src="https://user-images.githubusercontent.com/79336292/136093269-3c6c11fa-205c-402f-b22a-f991ef1495af.png" />
+GraphQL
+
+ <img style="height:50px; display:flex; justify-content:center"
+ src="https://user-images.githubusercontent.com/79336292/136093398-89233d96-252a-452f-a486-2732f7d4ad7f.png" />
+React Native
+
+ <img style="height:50px; display:flex; justify-content:center"
+ src="https://user-images.githubusercontent.com/79336292/136093478-c44f0a00-1b6e-4c0a-ad35-aec9049b1170.png" />
+Tailwind CSS
 
 <!--
 **ElinaKhisamutdinova/ElinaKhisamutdinova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
