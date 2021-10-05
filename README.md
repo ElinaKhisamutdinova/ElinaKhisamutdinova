@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElinaKhisamutdinova)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-<h2>🛠 My tech stack:
+<h2>🛠 My tech stack:</h2>
   
   <img style="height:50px"
  src="https://user-images.githubusercontent.com/79336292/136090056-81c8b906-96fc-43e6-8536-aeef1d565141.png" /> JavaScript
