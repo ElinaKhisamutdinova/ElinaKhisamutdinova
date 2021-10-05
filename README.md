@@ -6,8 +6,15 @@
 
 <h2>🛠 My tech stack:</h2>
   
-  JavaScript<img style="height:50px; display:flex; justify-content:center"
+  JavaScript <img style="height:50px; display:flex; justify-content:center"
  src="https://user-images.githubusercontent.com/79336292/136090056-81c8b906-96fc-43e6-8536-aeef1d565141.png" />
+ 
+ HTML5 <img style="height:50px; display:flex; justify-content:center"
+ src="https://user-images.githubusercontent.com/79336292/136091026-49c5b6f3-a57f-4ecd-98a9-03dda7fa2fbb.png" />
+ 
+ CSS3 <img style="height:50px; display:flex; justify-content:center"
+ src="https://user-images.githubusercontent.com/79336292/136091120-46b0e5e2-3932-497e-bc18-f15fe2cc02ea.png" />
+
 
 <!--
 **ElinaKhisamutdinova/ElinaKhisamutdinova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
