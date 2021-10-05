@@ -4,6 +4,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElinaKhisamutdinova)](https://github.com/anuraghazra/github-readme-stats)
 
 
+My tech stack:
+![image](https://user-images.githubusercontent.com/79336292/136085040-35d4568a-a6ef-4c80-a240-1800a2814f23.png)
+
 <!--
 **ElinaKhisamutdinova/ElinaKhisamutdinova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
