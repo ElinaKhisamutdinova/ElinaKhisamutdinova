@@ -5,7 +5,7 @@
 
 
 <h2>🛠 My tech stack:</h2>
-  
+ <div style="display:flex; flex-direction:row">
  <img style="height:50px; display:flex; justify-content:center"
  src="https://user-images.githubusercontent.com/79336292/136090056-81c8b906-96fc-43e6-8536-aeef1d565141.png" />
   JavaScript 
@@ -56,6 +56,8 @@
  
 <!--  <img style="height:50px; display:flex; justify-content:center"
  src="" /> -->
+  
+  </div>
     
 <h2>📖 What I am currently learning</h2>
 
