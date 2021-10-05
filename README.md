@@ -19,7 +19,7 @@
  src="https://user-images.githubusercontent.com/79336292/136091298-64a6c661-540c-41bc-940b-cc3762646556.png" />
  
  Redux <img style="height:50px; display:flex; justify-content:center"
- src="(https://user-images.githubusercontent.com/79336292/136091471-9b39c2d8-8763-4f2f-ab12-e4f0a79d436b.png" />
+ src="https://user-images.githubusercontent.com/79336292/136092530-58139fad-161d-416d-8aee-80490ee90c0e.png" />
  
  Git <img style="height:50px; display:flex; justify-content:center"
  src="https://user-images.githubusercontent.com/79336292/136091546-edd4f56a-8170-43e5-a4c5-e27afe5645b4.png" />
