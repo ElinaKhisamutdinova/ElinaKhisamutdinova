@@ -5,9 +5,10 @@
 
 
 <h2>🛠 My tech stack:</h2>
- <img style="height:20px; display:flex; justify-content:center"
+
+ <img style="height:20px"
  src="https://user-images.githubusercontent.com/79336292/136090056-81c8b906-96fc-43e6-8536-aeef1d565141.png" />
-  JavaScript 
+ JavaScript 
  
  <img style="height:20px; display:flex; justify-content:center"
  src="https://user-images.githubusercontent.com/79336292/136091026-49c5b6f3-a57f-4ecd-98a9-03dda7fa2fbb.png" />
